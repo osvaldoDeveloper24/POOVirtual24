@@ -1,7 +1,7 @@
 ﻿Module Module1
     Sub Main()
 
-
+        Console.WriteLine("Hola mundo")
         'Tarea realizada en visual studio 2022
 
         Console.WriteLine("-------Menú----")

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Osvaldo Garcia\\source\\repos\\DSNP003024_Bloque1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F083978-B1CB-40DE-AD47-FCA92935AE1C}|DSNP003024_Bloque1\\DSNP003024_Bloque1.vbproj|c:\\users\\osvaldo garcia\\source\\repos\\dsnp003024_bloque1\\dsnp003024_bloque1\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F083978-B1CB-40DE-AD47-FCA92935AE1C}|DSNP003024_Bloque1\\DSNP003024_Bloque1.vbproj|solutionrelative:dsnp003024_bloque1\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\DSNP003024_Bloque1\\DSNP003024_Bloque1\\Module1.vb",
+              "RelativeDocumentMoniker": "DSNP003024_Bloque1\\Module1.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\DSNP003024_Bloque1\\DSNP003024_Bloque1\\Module1.vb",
+              "RelativeToolTip": "DSNP003024_Bloque1\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-21T04:32:00.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

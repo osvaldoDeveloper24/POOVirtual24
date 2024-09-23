@@ -1,0 +1,11 @@
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\bin\Debug\DSNP003024_Bloque1.exe.config
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\bin\Debug\DSNP003024_Bloque1.exe
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\bin\Debug\DSNP003024_Bloque1.pdb
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\bin\Debug\DSNP003024_Bloque1.xml
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\obj\Debug\DSNP003024_Bloque1.vbproj.AssemblyReference.cache
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\obj\Debug\DSNP003024_Bloque1.Resources.resources
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\obj\Debug\DSNP003024_Bloque1.vbproj.GenerateResource.cache
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\obj\Debug\DSNP003024_Bloque1.vbproj.CoreCompileInputs.cache
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\obj\Debug\DSNP003024_Bloque1.exe
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\obj\Debug\DSNP003024_Bloque1.xml
+C:\Users\Osvaldo Garcia\source\repos\DSNP003024_Bloque1\DSNP003024_Bloque1\obj\Debug\DSNP003024_Bloque1.pdb
